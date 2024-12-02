@@ -36,6 +36,15 @@ The Laptop Recommendation Assistant with Full RAG leverages a dynamic dataset of
 
 ---
 
+## 📸 Sample Output
+### 1. User Input Interface
+![User Input Interface](Code%20Sample%20Output%20Screenshots/Sample%20output%201.png)
+
+### 2. Recommendation Output
+![Recommendation Output](Code%20Sample%20Output%20Screenshots/Sample%20output%202.png)
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
