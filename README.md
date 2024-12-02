@@ -71,9 +71,9 @@ No documentation will be made available for this project since this project only
 ---
 
 ## 🛠️ Challenges/Issues Faced with fixes
-- [Issue 1](GPT model Generation is Probablitic in nature. Meaning response from GPT for the same Query might be different. This nature of GPT models are
+- [Issue 1](GPT model Generation is probabilistic in nature. Meaning response from GPT for the same Query might be different. This nature of GPT models are
 not usually accepted by general user. So I have added 'Temperature' parameter to the requests with low value to make the models perform in thier lowest
-probablistc settings, so it generally provides reproducable output)
+probabilistic settings, so it generally provides reproducable output)
 
 - [Issue 2](Reworked on the logic and updated prompts to include few instructions to generate more relevant answers to the user queries. This was done to improve the quality of the answers to the user queries.)
 
